@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:huyuera9@gmail.com)
 
 
-<img align="right" alt="img" src="https://github.com/HYexployer/HYexployer/blob/main/C68DE31C-BD9E-431D-AD4D-1C89355B1003_1_201_a.jpeg" width="40%" height="auto" />
+<img align="right" alt="img" src="https://github.com/HYexployer/HYexployer/blob/main/C68DE31C-BD9E-431D-AD4D-1C89355B1003_1_201_a.jpeg" width="50%" height="auto" />
 
 #### 🐣 About Me:
 * Engaged in foundational and clinical research in the field of **Oncology**.👨🏻‍🔬
