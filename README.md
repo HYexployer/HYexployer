@@ -7,7 +7,7 @@
 <img align="right" alt="img" src="https://github.com/HYexployer/HYexployer/blob/main/C68DE31C-BD9E-431D-AD4D-1C89355B1003_1_201_a.jpeg" width="50%" height="auto" />
 
 #### 🐣 About Me:
-* Engaged in foundational and clinical research in the field of **Respiratory medicine** especially **Asthma** and **LUAD**.👨🏻‍🔬
+* Engaged in basic and clinical research in the field of **Respiratory medicine** especially **Asthma** and **LUAD**.👨🏻‍🔬
 * Eager to engage in joint ventures that foster innovation and fresh concepts.💡
 * A medical student with a zeal for **IN SILICO** world.👨🏻‍💻
 * Advancing my Medical Science Master's research at Ruijin Hospital.@ [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).🧬
