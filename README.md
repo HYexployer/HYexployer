@@ -7,16 +7,14 @@
 <img align="right" alt="img" src="https://github.com/HYexployer/HYexployer/blob/main/C68DE31C-BD9E-431D-AD4D-1C89355B1003_1_201_a.jpeg" width="50%" height="auto" />
 
 #### 🐣 About Me:
-* Engaged in basic and clinical research in the field of **Respiratory medicine** especially **Asthma** and **LUAD**.👨🏻‍🔬
+* Currently pursuing a PhD at **CUHK**, focusing on **adipose tissue research**.🧬
 * Eager to engage in joint ventures that foster innovation and fresh concepts.💡
-* A medical student with a zeal for **IN SILICO** world.👨🏻‍💻
-* Advancing my Medical Science Master's research at Ruijin Hospital.@ [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/).🧬
+* Passionate about the IN SILICO world and always eager to bring innovation and fresh perspectives to the field.💡
 
 #### :muscle: Current Challenges:
 - Strengthening my foundation in machine learning and mathematics.🧮
-- Seeking a suitable Ph.D. program match.🗺
-- Maintaining a thrice-weekly exercise regimen.💪
-- Planning a mountain trek adventure.🏔
+- Balancing research with a commitment to a thrice-weekly exercise routine.💪
+- Planning a mountain trek adventure as part of my love for hiking and climbing.🏔
 
 #### :computer: Programming languages and tools: 
 <p>
