@@ -9,11 +9,9 @@
 #### 🐣 About Me:
 * Currently pursuing a PhD at **CUHK**, focusing on **adipose tissue research**.🧬
 * Eager to engage in joint ventures that foster innovation and fresh concepts.💡
-* Passionate about the IN SILICO world and always eager to bring innovation and fresh perspectives to the field.💡
 
 #### :muscle: Current Challenges:
 - Strengthening my foundation in machine learning and mathematics.🧮
-- Balancing research with a commitment to a thrice-weekly exercise routine.💪
 - Planning a mountain trek adventure as part of my love for hiking and climbing.🏔
 
 #### :computer: Programming languages and tools: 
